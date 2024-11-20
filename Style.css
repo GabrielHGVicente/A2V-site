@@ -4,6 +4,24 @@
     background-repeat: no-repeat;
 }
 
-.títulos{
+.tituloServicos{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    color: white;
+    
+}
+
+.pServicos{
+    color: white;
+    text-align: center;
+}
+
+.tituloQuemSomos{
+    font-family: "Bebas Neue", sans-serif;
+    text-align: center;
+}
+
+.tituloBriefing{
+    font-family: "Bebas Neue", sans-serif;
     text-align: center;
 }
